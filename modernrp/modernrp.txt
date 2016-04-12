@@ -1,0 +1,7 @@
+"modernrp"
+{
+	"base"		"nutscript"
+	"title"		"Modern RP Base"
+	"author"	"Black Tea"
+	"menusystem" "1"
+}
